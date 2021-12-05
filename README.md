@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="Rhyth-master.github.io/Rhythm_Theory/style.css">
+
 # 意外と知らないリズム理論
 
 音学ゼミ`意外と知らないリズム理論`用の資料です．
