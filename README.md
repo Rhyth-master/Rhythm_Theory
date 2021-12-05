@@ -4,7 +4,6 @@
 
 作成者：みや [ [Twitter](https://twitter.com/Rhyth_Master) ]
 
-</br>
 
 ## - Contents - 
 - [1. Introduction](Introduction.md)
@@ -39,7 +38,6 @@
 - [7. グルーヴについて](#anchor6)
 - [参考資料](#anchor-source)
   
-</br>
 
 <a id="anchor-source"></a>
 ## - 参考資料 - 
