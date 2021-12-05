@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="Rhyth-master.github.io/Rhythm_Theory/style.css">
+<link href="/style.css" rel="stylesheet"></link>
 
 # 意外と知らないリズム理論
 
